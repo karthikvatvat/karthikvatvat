@@ -15,7 +15,7 @@ Whether it's developing AI-driven surrogate models for industrial equipment or b
 ### 🚀 What I'm Currently Working On
 *   **Engineering Leadership:** Serving as a full-time Lead Simulation Engineer in Bengaluru.
 *   **Surrogate Modeling:** Developing Proof of Concept (PoC) AI-driven surrogate models for industrial equipment.
-*   **Consulting:** Providing specialized CFD modeling frameworks & traning
+*   **Consult:** Providing specialized CFD modeling frameworks & training & mentoring for FEA and CFD simulations of Different domain of Aerospace and Mechanical Engineering. 
 
 ### 📫 How to Reach Me
 *   **Location:** Bengaluru, India
